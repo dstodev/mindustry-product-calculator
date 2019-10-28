@@ -1,0 +1,28 @@
+{
+	"folders": [
+		/* ~~~~~~~~~~~~~~~~~~~
+		     Main Project
+		~~~~~~~~~~~~~~~~~~~ */
+		{
+			"path": "..",
+			"name": "mindustry_product-calculator"
+		}
+	],
+	"settings": {
+		/* ~~~~~~~~~~~~~~~~~~~~~~~
+		     Vanilla Settings
+		~~~~~~~~~~~~~~~~~~~~~~~ */
+		//
+		/* ~~~~~~~~~~~~~~~~~~~~~~~~~
+		     Extension Settings
+		~~~~~~~~~~~~~~~~~~~~~~~~~ */
+		"python.pythonPath": "py3-venv\\Scripts\\python.exe",
+		"python.formatting.autopep8Args": [
+			"--max-line-length=120"
+		]
+		//
+		/* ~~~~~~~~~~~~~~~~~~~~~
+		     Other Settings
+		~~~~~~~~~~~~~~~~~~~~~ */
+	},
+}
